@@ -8,8 +8,7 @@ Step2: Run all the code sections.
 *** Make sure you update all the paths according to your Pathsets if required***
 
 Step3: Import dataset directly from roboflow account. 
-I have provided the API Key to access the dataset directly. 
-Please avoid sharing it further. 
+ 
 
 Step4: After running all code sections please download the onnx format file. 
 
